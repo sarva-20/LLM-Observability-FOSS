@@ -1,0 +1,17 @@
+# LLM Observability Demo - Dependencies
+
+# Core LLM Provider
+google-genai>=1.56.0
+
+# Environment Management
+python-dotenv>=1.2.0
+
+# Observability Frameworks
+langtrace-python-sdk>=3.0.0
+opentelemetry-api>=1.39.0
+opentelemetry-sdk>=1.39.0
+opentelemetry-exporter-otlp-proto-http>=1.39.0
+traceloop-sdk>=0.29.0
+opik>=0.1.0
+
+# Note: All packages are compatible with Python 3.11 and 3.12
