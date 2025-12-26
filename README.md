@@ -5,7 +5,7 @@
 
 This repository demonstrates how to add observability to LLM applications **step by step** using **Free and Open Source Software (FOSS)**.
 
-> 💡 **Created for FOSS United Coimbatore Meetup - December 2025 @ KlyONIX Pvt Ltd, Pollachi**
+> 💡 **Created for FOSS United Coimbatore Meetup - December 27, 2025 @ KlyONIX Pvt Ltd, Pollachi**
 
 ---
 
