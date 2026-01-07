@@ -202,7 +202,7 @@ docker restart jaeger    # Restart if needed
 
 Contributions welcome! Ideas:
 - Examples with OpenAI/Anthropic
-- RAG pipeline demos
+- RAG pipeline demo
 - Agent workflow examples
 - Documentation improvements
 
